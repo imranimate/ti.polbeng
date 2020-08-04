@@ -49,6 +49,7 @@ header .container-fluid:nth-child(2) {
 
 .info {
     float: right;
+    width: fit-content;
 }
 
 .top-head .medsos a {
@@ -940,7 +941,7 @@ div.batasan p:last-child::after {
 /* PRODI */
 
 main.prodi {
-    margin-top: 132px;
+    margin-top: 100px;
 }
 
 
@@ -1218,3 +1219,4 @@ article .batas {
     color: black!important;
     font-weight: lighter!important;
 }
+
